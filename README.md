@@ -13,7 +13,7 @@ Step 2: Change public keys update url
 
 ```
 echo https://www.example.com/your_ssh_public.keys > ~/.ssh/ssh_keys_update_url
-chomd 600 ~/.ssh/ssh_keys_update_url
+chmod 600 ~/.ssh/ssh_keys_update_url
 ```
 
 Step 3: Run script
