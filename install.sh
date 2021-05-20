@@ -1,7 +1,7 @@
 #!/bin/bash
 
 INSTALL_DIR=~/.ssh
-SCRIPT_RAW_URL_PREFIX=https://github.com/MisakaMikoto-35c5/ssh-keys-auto-updater/raw/master
+SCRIPT_RAW_URL_PREFIX=https://github.com/MisakaMikoto-35c5/ssh-keys-auto-updater/raw/main
 
 mkdir -p $INSTALL_DIR
 chmod 700 $INSTALL_DIR
