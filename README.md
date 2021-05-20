@@ -5,7 +5,7 @@
 Step 1: Download install script and run it.
 
 ```
-wget -O /tmp/install.sh https://github.com/MisakaMikoto-35c5/ssh-keys-auto-updater/raw/master/install.sh
+wget -O /tmp/install.sh https://github.com/MisakaMikoto-35c5/ssh-keys-auto-updater/raw/main/install.sh
 bash /tmp/install.sh
 ```
 
